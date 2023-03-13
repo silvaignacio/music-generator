@@ -1,0 +1,162 @@
+#sexyBG {
+	DISPLAY: none; BACKGROUND: #000; FILTER: alpha(opacity=40); WIDTH: 100%; POSITION: absolute; HEIGHT: 100%; opacity: 0.4; moz-opacity: 0.4; khtml-opacity: 0.4
+}
+#sexyBOX {
+	BORDER-RIGHT: #636d61 1px solid; BORDER-TOP: #636d61 1px solid; DISPLAY: none; Z-INDEX: 100; BACKGROUND: #b9e77b; BORDER-LEFT: #636d61 1px solid; COLOR: #333; BORDER-BOTTOM: #636d61 1px solid; POSITION: absolute; TOP: 70px; TEXT-ALIGN: center
+}
+.sexyX {
+	PADDING-RIGHT: 0px; BORDER-TOP: #636d61 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND: #778574; PADDING-BOTTOM: 4px; COLOR: #ddd; PADDING-TOP: 4px
+}
+#tools {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 14px; FONT-SIZE: 13px; PADDING-BOTTOM: 9px; MARGIN: 0px; PADDING-TOP: 12px; BORDER-BOTTOM: #e6e6e6 1px solid; FONT-FAMILY: Arial, sans-serif
+}
+#tools A {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 21px; BACKGROUND: url(http://www.lyricsfreak.com/media/icons.gif) no-repeat; PADDING-BOTTOM: 1px; COLOR: #839cbf; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#tools A SPAN {
+	BORDER-BOTTOM: #c6cfdd 1px dotted
+}
+#tools A:hover SPAN {
+	COLOR: #ef0000; BORDER-BOTTOM: #ef0000 1px solid
+}
+#tools A:hover {
+	COLOR: #687786
+}
+#tools A.edit {
+	BACKGROUND-POSITION: 0px -128px
+}
+#tools A.edit:hover {
+	BACKGROUND-POSITION: 0px -144px
+}
+#tools A.email {
+	BACKGROUND-POSITION: 0px -160px
+}
+#tools A.email:hover {
+	BACKGROUND-POSITION: 0px -176px
+}
+#tools A.print {
+	BACKGROUND-POSITION: 0px -192px
+}
+#tools A.print:hover {
+	BACKGROUND-POSITION: 0px -208px
+}
+#tools A.vote {
+	BACKGROUND-POSITION: 0px -64px
+}
+#tools A.vote:hover {
+	BACKGROUND-POSITION: 0px -80px
+}
+#tools A.save {
+	BACKGROUND-POSITION: 0px -96px
+}
+#tools A.save:hover {
+	BACKGROUND-POSITION: 0px -112px
+}
+#tools A.larger {
+	BACKGROUND-POSITION: 0px -32px
+}
+#tools A.larger:hover {
+	BACKGROUND-POSITION: 0px -48px
+}
+#tools A.smaller {
+	BACKGROUND-POSITION: 0px 0px
+}
+#tools A.smaller:hover {
+	BACKGROUND-POSITION: 0px -16px
+}
+#tools BR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.mailA {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 15px 0px; PADDING-TOP: 0px
+}
+.mailA TABLE {
+	FONT-SIZE: 13px; WIDTH: 100%; border-spacing: 0
+}
+.mailA TD {
+	PADDING-RIGHT: 25px; PADDING-LEFT: 25px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+.mailA B {
+	COLOR: #ef0000
+}
+.voter {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 13px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 15px; PADDING-TOP: 0px; FONT-FAMILY: Verdana; TEXT-ALIGN: center
+}
+.voter .voteHead {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; BACKGROUND: url(http://www.lyricsfreak.com/media/voteBG.gif) repeat-x; PADDING-BOTTOM: 12px; MARGIN: 0px 0px 10px; COLOR: #fff; PADDING-TOP: 12px
+}
+.voter SPAN {
+	FONT-SIZE: 10px; COLOR: #666
+}
+.voter HR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.star {
+	BACKGROUND: url(http://www.lyricsfreak.com/media/voteStar.gif) left top; LEFT: 0px; FLOAT: left; WIDTH: 85px; CURSOR: pointer; POSITION: relative; TOP: -5px; HEIGHT: 20px
+}
+.star DIV {
+	BACKGROUND: url(http://www.lyricsfreak.com/media/voteStar.gif) 0px 25px; FLOAT: left; WIDTH: 85px; POSITION: relative; HEIGHT: 20px
+}
+.starUser {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; FONT-SIZE: 12px; FLOAT: left; PADDING-BOTTOM: 0px; COLOR: #5098b9; PADDING-TOP: 1px
+}
+#content {
+	CURSOR: text
+}
+#content SPAN {
+	DISPLAY: block; FONT-FAMILY: "Times New Roman", serif
+}
+#edit {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 15px; BACKGROUND: #fcf7d2; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 2px; FONT-FAMILY: "Times New Roman", serif; HEIGHT: 21px; BORDER-RIGHT-WIDTH: 0px
+}
+#edit INPUT {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 15px; BACKGROUND: #fcf7d2; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; WIDTH: 100%; PADDING-TOP: 2px; FONT-FAMILY: "Times New Roman", serif; HEIGHT: 21px; BORDER-RIGHT-WIDTH: 0px
+}
+#editRep {
+	CURSOR: pointer
+}
+#editActive {
+	COLOR: #ef0000
+}
+.rep {
+	BACKGROUND: #e3f3fc
+}
+#rep {
+	BACKGROUND: #333; LINE-HEIGHT: 22px
+}
+#rep DIV {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; POSITION: relative
+}
+#rep .east {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 12px; FLOAT: right; PADDING-BOTTOM: 0px; COLOR: #999; PADDING-TOP: 0px; FONT-FAMILY: Arial, sans-serif
+}
+#square {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 15px; FONT-SIZE: 12px; PADDING-BOTTOM: 24px; MARGIN: 0px 0px 0px 11px; COLOR: #ccc; PADDING-TOP: 0px; LIST-STYLE-TYPE: circle
+}
+#square LI {
+	PADDING-BOTTOM: 2px; MARGIN: 0px
+}
+#square A {
+	COLOR: #006699; LINE-HEIGHT: 1.5em; TEXT-DECORATION: underline
+}
+#square SPAN {
+	FONT-WEIGHT: bold; COLOR: #222; TEXT-DECORATION: underline
+}
+#square SPAN A {
+	FONT-WEIGHT: bold; COLOR: #222; TEXT-DECORATION: underline
+}
+#square SPAN {
+	LEFT: -5px; POSITION: relative; TOP: -2px
+}
+#square A.red {
+	COLOR: #cc0000
+}
+#side A:hover {
+	COLOR: #ef0000
+}
+.transLight SPAN:hover {
+	COLOR: #ef0000
+}
+.transLight SPAN {
+	DISPLAY: block; COLOR: #888
+}

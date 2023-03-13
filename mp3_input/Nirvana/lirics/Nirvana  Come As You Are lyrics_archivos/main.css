@@ -1,0 +1,258 @@
+A:link {
+	COLOR: #373737
+}
+A:visited {
+	COLOR: #373737
+}
+A:active {
+	COLOR: #373737
+}
+A:hover {
+	COLOR: #ef0000
+}
+#login A {
+	COLOR: #ef0000
+}
+#search A {
+	COLOR: #ef0000
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://www.lyricsfreak.com/media/horizon.jpg) #fff repeat-x 0px -56px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #424242; PADDING-TOP: 0px; FONT-FAMILY: Arial, sans-serif
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Helvetica, Arial, sans-serif; BORDER-SPACING: 0
+}
+TABLE {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TR {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TH {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+TD {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.everything {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN-BOTTOM: 100px; WIDTH: 768px; PADDING-TOP: 15px; BORDER-RIGHT-WIDTH: 0px
+}
+.logo {
+	FLOAT: left
+}
+#navSwitch {
+	PADDING-RIGHT: 4px; DISPLAY: block; PADDING-LEFT: 0px; FONT-SIZE: 11px; FLOAT: right; PADDING-BOTTOM: 0px; COLOR: #d0dae4; PADDING-TOP: 14px; LETTER-SPACING: 1px
+}
+#navSwitch A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; COLOR: #0f6294; PADDING-TOP: 5px; BORDER-BOTTOM: #b2c7e7 1px dotted; TEXT-DECORATION: none
+}
+#navMe A {
+	COLOR: #cb4c82; BORDER-BOTTOM: #d4bbd0 1px dotted
+}
+#navMe A:hover {
+	COLOR: #cb4c82; BORDER-BOTTOM: #d4bbd0 1px dotted
+}
+#nav {
+	CLEAR: both; TEXT-ALIGN: center
+}
+#nav DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 13px; BACKGROUND: url(http://www.lyricsfreak.com/media/horizon.jpg) repeat-x 0px -11px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 766px; PADDING-TOP: 15px; HEIGHT: 31px
+}
+#nav A {
+	PADDING-RIGHT: 9px; DISPLAY: inline; PADDING-LEFT: 9px; PADDING-BOTTOM: 16px; COLOR: #64646c; PADDING-TOP: 15px; TEXT-DECORATION: none
+}
+#nav A:hover {
+	COLOR: #ef0000
+}
+#styles SPAN A {
+	COLOR: #ef0000
+}
+#styles UL LI SPAN A:hover {
+	COLOR: #ef0000
+}
+#nav SPAN A {
+	BACKGROUND: url(http://www.lyricsfreak.com/media/azMe.jpg) no-repeat 50% top; COLOR: #fff
+}
+#nav SPAN A:hover {
+	BACKGROUND: url(http://www.lyricsfreak.com/media/azMe.jpg) no-repeat 50% top; COLOR: #fff
+}
+#styles {
+	DISPLAY: none
+}
+#styles SPAN A {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000
+}
+#styles SPAN A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000
+}
+#search {
+	DISPLAY: none; COLOR: #777
+}
+#search A {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#search A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#search FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 13px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 2px
+}
+#search INPUT {
+	BORDER-TOP-WIDTH: 0px; PADDING-LEFT: 4px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: top; POSITION: relative; TOP: -6px; BORDER-RIGHT-WIDTH: 0px
+}
+#search SPAN INPUT {
+	BORDER-RIGHT: #c8c8c8 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #c8c8c8 1px solid; PADDING-LEFT: 7px; FONT-SIZE: 12px; BACKGROUND: url(http://www.lyricsfreak.com/images/inputBG.gif); PADDING-BOTTOM: 0px; BORDER-LEFT: #c8c8c8 1px solid; COLOR: #677d96; PADDING-TOP: 2px; BORDER-BOTTOM: #c8c8c8 1px solid; POSITION: relative; TOP: -4px; HEIGHT: 17px
+}
+#loc {
+	BORDER-TOP-WIDTH: 0px; CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 3px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 3px; WIDTH: 100%; PADDING-TOP: 9px; BORDER-RIGHT-WIDTH: 0px
+}
+#loc .west {
+	PADDING-BOTTOM: 5px; TEXT-ALIGN: left
+}
+#loc .west H1 {
+	DISPLAY: inline; FONT-SIZE: 14px; COLOR: #ccc; FONT-FAMILY: "Times New Roman", serif
+}
+#loc .west H1 SPAN A {
+	COLOR: #d0ba90; BORDER-BOTTOM: #ded7d4 1px solid
+}
+#loc .west A {
+	FONT-SIZE: 16px; COLOR: #999; BORDER-BOTTOM: #d4d4d4 1px solid; FONT-FAMILY: Arial, sans-serif; TEXT-DECORATION: none
+}
+#loc .east {
+	PADDING-RIGHT: 4px; WORD-SPACING: 3px; COLOR: #e1e9e1
+}
+#loc .east A {
+	FONT-SIZE: 13px; COLOR: #9bba7b; BORDER-BOTTOM: #e1e9e1 1px solid; TEXT-DECORATION: none
+}
+#loc .west H1 A:hover {
+	COLOR: #ef0000; BORDER-BOTTOM: #ef0000 1px solid
+}
+#loc .east A:hover {
+	COLOR: #ef0000; BORDER-BOTTOM: #ef0000 1px solid
+}
+#navSwitch A:hover {
+	COLOR: #ef0000; BORDER-BOTTOM: #ef0000 1px solid
+}
+.underline {
+	FONT-SIZE: 1px; BACKGROUND: url(http://www.lyricsfreak.com/media/horizon.jpg) repeat-x 0px 0px; HEIGHT: 11px
+}
+#side {
+	BORDER-RIGHT: #f0efdb 1px solid; FONT-SIZE: 12px; BACKGROUND: #fdfcee; PADDING-BOTTOM: 20px; BORDER-LEFT: #ecebd4 1px solid; WIDTH: 174px; LINE-HEIGHT: 1.5em; TEXT-ALIGN: left
+}
+#side SPAN A {
+	DISPLAY: block; FONT-WEIGHT: bold; COLOR: #b46049
+}
+#side SPAN A:hover {
+	COLOR: #ef0000
+}
+.side A:hover {
+	COLOR: #ef0000
+}
+#side A {
+	DISPLAY: block; PADDING-LEFT: 6px; COLOR: #0f6294; TEXT-DECORATION: none
+}
+#side A:hover {
+	COLOR: #ef0000
+}
+.upDown {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; MARGIN: 0px 0px 0px 1px; PADDING-TOP: 5px; BORDER-BOTTOM: #ecebd4 1px solid
+}
+.main {
+	BORDER-RIGHT: #f1f1f1 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 2px; PADDING-BOTTOM: 25px; PADDING-TOP: 0px; BORDER-BOTTOM: #f1f1f1 1px solid; TEXT-ALIGN: left
+}
+#content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 12px; FONT-SIZE: 13px; BACKGROUND: url(http://www.lyricsfreak.com/images/bioBG.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #474747; LINE-HEIGHT: 23px; PADDING-TOP: 1px; TEXT-ALIGN: justify
+}
+#content A {
+	COLOR: #62809c
+}
+#content A:hover {
+	COLOR: #ef0000
+}
+#content SPAN A {
+	COLOR: #b22424
+}
+#content H2 {
+	DISPLAY: inline; FONT-SIZE: 17px
+}
+#content H1 {
+	DISPLAY: inline; FONT-SIZE: 20px
+}
+#content P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#content OL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; COLOR: #666
+}
+UL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; COLOR: #666
+}
+#content UL {
+	COLOR: #666; LIST-STYLE-TYPE: square
+}
+.google_160x {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; PADDING-TOP: 7px
+}
+.ad180x90 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 13px
+}
+.ad728x90 {
+	BORDER-RIGHT: #f1f1f1 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #fefeeb; PADDING-BOTTOM: 15px; BORDER-LEFT: #ededed 1px solid; PADDING-TOP: 15px; BORDER-BOTTOM: #ededed 1px solid; TEXT-ALIGN: center
+}
+.amazon IMG {
+	MARGIN-TOP: 5px; WIDTH: 162px; BORDER-BOTTOM: #ecebd4 1px solid
+}
+.input {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 12px; BORDER-LEFT: #999 1px solid; WIDTH: 150px; BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: #ffffdf
+}
+.input:unknown {
+	BORDER-RIGHT: #b41313 1px solid; BORDER-TOP: #b41313 1px solid; BORDER-LEFT: #b41313 1px solid; BORDER-BOTTOM: #b41313 1px solid; BACKGROUND-COLOR: #ffffdf
+}
+.textarea {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 12px; BORDER-LEFT: #999 1px solid; WIDTH: 300px; BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: #ffffdf
+}
+.textarea:unknown {
+	BORDER-RIGHT: #b41313 1px solid; BORDER-TOP: #b41313 1px solid; BORDER-LEFT: #b41313 1px solid; BORDER-BOTTOM: #b41313 1px solid; BACKGROUND-COLOR: #ffffdf
+}
+.submit {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 2px; MARGIN-TOP: 3px; PADDING-LEFT: 2px; BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 12px; BACKGROUND: #ce3333; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 1px; CURSOR: pointer; COLOR: #ecc8c8; PADDING-TOP: 1px; HEIGHT: 16px; BORDER-RIGHT-WIDTH: 0px
+}
+.submit:hover {
+	BACKGROUND: #a01515; COLOR: #dfa9a9
+}
+.starZero {
+	FONT-SIZE: 1px; COLOR: #fff
+}
+.stars DIV {
+	FONT-SIZE: 1px; BACKGROUND: url(http://www.lyricsfreak.com/images/stars_bw.gif) no-repeat; FLOAT: right; WIDTH: 84px; COLOR: #fff; HEIGHT: 16px
+}
+.stars DIV DIV {
+	BACKGROUND: url(http://www.lyricsfreak.com/images/stars_color.gif) no-repeat left 50%; FLOAT: left
+}
+#top7 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 174px; PADDING-TOP: 0px; LETTER-SPACING: 0.04em; TEXT-ALIGN: left
+}
+#top7 DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-SIZE: 12px; BACKGROUND: #f5edde; PADDING-BOTTOM: 5px; COLOR: #b47f4f; PADDING-TOP: 5px; BORDER-BOTTOM: #eadfcb 1px solid; TEXT-ALIGN: left
+}
+#top7 UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#top7 UL LI {
+	LIST-STYLE-TYPE: none
+}
+#top7 UL LI A {
+	PADDING-RIGHT: 0px; BORDER-TOP: #fff 1px solid; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND: #fefee5; PADDING-BOTTOM: 5px; MARGIN-LEFT: 1px; COLOR: #5b5a50; PADDING-TOP: 6px; BORDER-BOTTOM: #ececd3 1px solid; TEXT-DECORATION: none
+}
+#top7 UL LI A:hover {
+	BORDER-TOP: #fbfccf 1px solid; BACKGROUND: #ffffd5; COLOR: #c55a5a; BORDER-BOTTOM: #ebec80 1px solid
+}
+#top7 UL LI A SPAN {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; COLOR: #d0bcb0; PADDING-TOP: 0px
+}
